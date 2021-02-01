@@ -21,3 +21,4 @@ bola_campo = Bola('azul', '55', 'couro')
 
 bola_campo.mostra_bola()
 bola_campo.troca_cor('vermelha')
+bola_campo.mostra_bola()
